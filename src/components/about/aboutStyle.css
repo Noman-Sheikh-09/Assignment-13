@@ -1,0 +1,14 @@
+.about-bg{
+    background-color:gainsboro;
+width: 10%;
+
+}
+.about-title{
+    color: wditblack;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+.about-paragraph{
+    color: black;
+}

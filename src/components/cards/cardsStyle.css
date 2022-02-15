@@ -1,0 +1,36 @@
+.first-title{
+color: dodgerblue;
+
+
+}
+.main-title{
+    line-height: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+/* .sub-title{
+
+} */
+.last-title{
+    color: dodgerblue;
+}
+.card-img-1{
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+}
+.card-img-bg{
+    background-color: rgb(54, 54, 54);
+    margin-left: -28px;
+}
+.cards-part{
+    margin-top: 40px;
+}
+.card-2{
+    margin-left: 55px;
+}
+.card-shadow{
+    border: 1px black solid;
+    box-shadow: 0px, 0px, 0.25px;
+}

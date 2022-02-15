@@ -1,0 +1,14 @@
+.New-Feature{
+    margin-top: 100px;
+}
+
+.feature-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.feature-blue{
+    color: dodgerblue;
+}
+.feature-date{
+    color: gray;
+}

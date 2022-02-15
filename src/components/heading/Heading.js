@@ -20,6 +20,14 @@ export default function Heading() {
        <li>Lorem ipsum dolor sit amet,  ut laoreet dolore magna.</li>
    </ul>
    <p>Lorem ipsum dolor sit amet,  ut laoreet dolore magna.Lorem Ipsum is simply dLorem Ipsum </p>
+    <ol>
+        <li>Lorem ipsum dolor sit amet,  ut laoreet dolore magna</li>
+        <li>Lorem ipsum dolor sit amet,  ut laoreet dolore magna</li>
+        <li>Lorem ipsum dolor sit amet,  ut laoreet dolore magna</li>
+    </ol>
+    <p>Lorem ipsum dolor sit amet,  ut laoreet dolore magna.Lorem Ipsum is simply dLorem Ipsum dollar</p>
+    
+    
     </div>
     <div className='col-md-4'></div>
 

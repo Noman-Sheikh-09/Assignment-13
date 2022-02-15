@@ -1,0 +1,14 @@
+.older-button{
+    border: 1px solid dodgerblue;
+    border-radius: 20px;
+    padding: 5px;
+}
+.newer-button{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: 5px;
+    padding: 5px;
+}
+.buttons{
+    margin-left: 100px;
+}

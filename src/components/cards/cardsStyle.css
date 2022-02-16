@@ -26,6 +26,7 @@ color: dodgerblue;
 }
 .cards-part{
     margin-top: 40px;
+    display: flex;
 }
 .card-2{
     margin-left: 55px;
@@ -33,4 +34,19 @@ color: dodgerblue;
 .card-shadow{
     border: 1px black solid;
     box-shadow: 0px, 0px, 0.25px;
+}
+@media (max-width:768px){
+    .card-img-bg{
+       margin-left: 0px;
+       text-align:justify;
+    }
+    .card-2{
+        margin: 0px;
+    }
+}
+@media (max-width: 480px){
+.card-img-bg{
+    background-color: rgb(54, 54, 54);
+}
+
 }

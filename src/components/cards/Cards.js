@@ -9,7 +9,7 @@ export default function Cards() {
             <p className='first-title'>World</p>
             <h2 className='main-title'>Featured Post</h2>
             <p className='sub-title'>Nov 12
-              <br />
+              <br /> 
               Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
               <br />
             </p>

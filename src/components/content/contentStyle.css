@@ -26,3 +26,67 @@ margin-top: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 } */
+.heading-sidebar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+.bg-grey{
+    background-color: rgb(195, 189, 189);
+    /* padding: 10px; */
+}
+.heading-sidebar-2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    /* margin-top: 50px; */
+}
+ol{
+    list-style-type: none;
+    margin-left: -30px;
+}
+ol li{
+    color: dodgerblue;
+}
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.sub-heading-1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.blog-page{
+    margin-top: 50px;
+}
+.blog-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+.jacob{
+    color: dodgerblue;
+}
+.date-title-blog{
+    color: grey;
+}
+.blog-blue{
+    color: dodgerblue;
+}
+.blog-bold{
+    font-weight: bold;
+}
+.New-Feature{
+    margin-top: 100px;
+}
+
+.feature-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.feature-blue{
+    color: dodgerblue;
+}
+.feature-date{
+    color: gray;
+}

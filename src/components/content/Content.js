@@ -58,7 +58,7 @@ export default function Content() {
 
 
                     </div>
-                    <div className='col-md-4'>
+                    <div className='col-md-4 sidebar'>
                         <div className='bg-grey'>
                             <h4 className='heading-sidebar'>About</h4>
                             <p className='para-sidebar'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna.</p>

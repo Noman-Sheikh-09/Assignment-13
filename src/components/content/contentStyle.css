@@ -90,3 +90,8 @@ ol li{
 .feature-date{
     color: gray;
 }
+@media (max-width: 480px){
+    .sidebar{
+        text-align: center;
+    }
+}
